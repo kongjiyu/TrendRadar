@@ -1,113 +1,81 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
 华为
+Huawei
 鸿蒙
 HarmonyOS
 任正非
-
 比亚迪
+BYD
 王传福
-
 大疆
 DJI
-
 宇树
 王兴兴
-
 智元
 灵犀
 稚晖君
 彭志辉
-
 黑神话
 冯骥
-
 影之刃零
 梁其伟
-
 哪吒
 饺子
 杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
 京东
 刘强东
-
 字节
-bytedance
+ByteDance
 张一鸣
-
 特斯拉
 马斯克
-
 微软
 Microsoft
-
 英伟达
 NVIDIA
 黄仁勋
-
 AMD
-
 谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
+Google
+Gemini
+DeepMind
+ChatGPT
+OpenAI
+Claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
+iPhone
+iPad
+Mac
+iOS
+AI
 人工智能
-
 自动驾驶
-
 机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
 芯片
 光刻机
-
 科技
-
 核能
-
 水电站
-雅鲁藏布江
-
-新质生产力
-
 月球
 登月
 火星
 宇宙
 飞船
 航空
+
+胖东来
+于东来
+申奥
+国产 科技
+中国 科技
+美国 科技
+日本 科技
+韩国 科技
+马来西亚 科技
+马来西亚 芯片
+马来西亚 自动驾驶
+马来西亚 机器人
+马来西亚 核能
+马来西亚 水电站
+马来西亚 中国 关系
+马来西亚 日本 科技合作
+马来西亚 韩国 半导体
